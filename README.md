@@ -444,30 +444,9 @@ Directors and actors who appear repeatedly across Netflix titles are proven asse
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-▶️ **How to Run This Project**
 
-**Option 1 — Open in Google Colab (Recommended — No Setup Needed)**
 
-**Collab Link**: https://colab.research.google.com/drive/1Mhy2abu-Z_1G_ddFkKPlxQQ0jT9DVQXY
 
-(*Just click the above Link. The notebook will open in your browser. Click Runtime → Run All to execute everything*).
-
-**Option 2 — Run Locally on Your Machine**
-
-Step 1: Clone this repository
-https://github.com/Dilawarsuraj/Netflix-Content-strategy-EDA
-
-cd netflix-content-strategy-eda
-
-Step 2: Install required Python libraries
-pip install pandas numpy matplotlib seaborn
-
-Step 3: Download the dataset
-Visit the link below, right-click → Save As → save as netflix.csv
-https://colab.research.google.com/drive/1Mhy2abu-Z_1G_ddFkKPlxQQ0jT9DVQXY
-
-Step 4: Launch Jupyter Notebook
-jupyter notebook DAV1_Project.ipynb
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -485,9 +464,7 @@ jupyter notebook DAV1_Project.ipynb
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  DataSet Link: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv
- 
- Solution Link: https://colab.research.google.com/drive/1Mhy2abu-Z_1G_ddFkKPlxQQ0jT9DVQXY#scrollTo=WZT3WHmnNorY
- How to Download DataSet: *After clicking on the above link, you can download the files by right-clicking on the page and clicking on "Save As", then naming the file as per your wish, with .csv as the extension*
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
