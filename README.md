@@ -478,9 +478,9 @@ jupyter notebook DAV1_Project.ipynb
 **Data Analyst** | Python | EDA | Business Insights
 
 
-🔗 LinkedIn: https://www.linkedin.com/in/dilawarsuraj/
-💻 GitHub: https://github.com/Dilawarsuraj?tab=repositories
-📧 Email: dilawarsuraj2@gmail.com
+🔗 LinkedIn:
+💻 GitHub: 
+📧 Email: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
