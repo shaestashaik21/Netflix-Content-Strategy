@@ -442,24 +442,18 @@ Analysis of `date_added` shows certain months have higher content addition rates
 
 Directors and actors who appear repeatedly across Netflix titles are proven assets. Signing them to exclusive deals ensures a consistent content pipeline, reduces casting uncertainty, and builds audience loyalty to familiar faces and storytelling styles.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👤 Author
 
-**Dilawar Suraj Shaik**
+**Shaesta Shaik**
 
 **Data Analyst** | Python | EDA | Business Insights
 
 
-🔗 LinkedIn:
-💻 GitHub: 
-📧 Email: 
+🔗 LinkedIn:https://www.linkedin.com/in/shaesta-shaik-197559420/
+💻 GitHub: https://github.com/shaestashaik21
+📧 Email: shaestashaik21@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
